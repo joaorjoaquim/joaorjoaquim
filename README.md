@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/joaorjoaquim">
   <img " src="https://github-readme-stats.vercel.app/api?username=joaorjoaquim&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorjoaquim)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>  
 
 <div style="display: inline_block"><br>
